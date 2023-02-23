@@ -1,0 +1,87 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2? family= Anton & display=swap');
+
+body {
+    background-color: #F5AB64;
+}
+
+
+/***************************************incicio *****************************/
+
+.logo{
+    box-sizing: border-box;
+}
+
+#fondom{
+    background-color: #FDF4EB !important;
+}
+
+.anuncio{
+    background-image: url(../imagenes/principal.png) !important;
+    background-size:cover;
+    background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.fondoc{
+    background-color: #fdf4db;
+}
+
+.caja{
+    box-sizing: border-box;
+}
+
+/*************************************fin de incicio *****************************/
+
+
+/************************************seccion1*****************************/
+
+
+#fondor{
+	background-image: url(../imagenes/restaurante.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/**********************************fin de seccion1*****************************/
+
+.fondof{
+    background-image: url(../imagenes/3.png) !important;
+    background-size:cover;
+    background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+
+
+
+/************************************footer***********************************/
+
+.insta{
+	color: #E83DEA;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.twit{
+	color: #6FD0E8;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.what{
+	color: #4DE69C;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.face{
+	font-size: 30px;
+	color: #5C81DF
+}
+
+/*********************************fin del footer***********************************/
